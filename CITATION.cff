@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Hardware-Assisted Post-Processing for SNS Twin-Field QKD: OptiSystem Prototype, Python Pipeline and FPGA Extension"
+type: software
+authors:
+  - family-names: Kumar
+    given-names: Anand
+  - family-names: Gupta
+    given-names: Aayush
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/Anand-Ambastha/snstfqkd-fpga"
